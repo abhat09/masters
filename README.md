@@ -14,7 +14,8 @@ This repository contains a sample of coding and data science projects that I hav
 36-490 Statistics Capstone:
   
   Simulation: (note: in progress) This python file contains the simulation model my capstone group is building to simulate the Artistic Gymnastics Competition for the Paris Olympics in 2024. The goal of the model is to find the team of 5 USA athletes (for both the men's and women's teams) that can win the most medals. This project will be entered into the data challenge being hosted by the USOPC.
-  Capstone_EDA: This RMD file contains the elementary data analysis I did to investigate relationships between variables in our dataset before determining how we should construct our analytics model. 
+  
+  EDA: This RMD file contains the elementary data analysis I did to investigate relationships between variables in our dataset before determining how we should construct our analytics model. 
 
 36-315 Statistical Graphics and Visualization: 
   
