@@ -9,17 +9,15 @@ This repository contains a sample of coding and data science projects that I hav
   
   midterm mini: This RMD file contains the data analysis for the midterm project, for which we had to submit an executive report highlighting how writing produced by ChatGPT is similar and/or different from student writing and academic writing. The data analysis includes multidimensional analysis, PCA, parts-of-speech tagging, keyness analysis, hedges-and-boosters, and frequency. 
   
-  468_Final: (note: in progress) This RMD file contains the beginning of my analysis for my final project. I will use topic modeling, stemming, multidimensional analysis, PCA biplot, parts-of-speech tagging, word clouds, and keywords in context tables.
+  468_Final: This RMD file contains my analysis for my final project. I used topic modeling, stemming, multidimensional analysis, PCA biplot, parts-of-speech tagging, regression, and keywords in context tables.
 
 36-490 Statistics Capstone:
   
   Simulation: (note: in progress) This python file contains the simulation model my capstone group is building to simulate the Artistic Gymnastics Competition for the Paris Olympics in 2024. The goal of the model is to find the team of 5 USA athletes (for both the men's and women's teams) that can win the most medals. This project will be entered into the data challenge being hosted by the USOPC.
-  
-  EDA: This RMD file contains the elementary data analysis I did to investigate relationships between variables in our dataset before determining how we should construct our analytics model. 
 
 36-315 Statistical Graphics and Visualization: 
   
-  315_Final: (note: in progress) This RMD file contains the beginning of my analysis for this course's final project. I will be investigating what factors influence the number of goals a soccer player makes in a season using data from the 2021-2022 UEFA Men's Soccer season. This analysis includes elementary data analysis and multilinear regression modeling. 
+  315_Final: This HTML file contains this course's final group project. We investigated what factors influence the number of goals a soccer player makes in a season using data from the 2021-2022 UEFA Men's Soccer season. This analysis includes elementary data analysis and multilinear regression modeling. 
 
 15-112 Fundamentals of Programming and Computer Science:
   
