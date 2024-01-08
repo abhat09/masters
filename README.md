@@ -1,6 +1,10 @@
 # Masters Application
 This repository contains a sample of coding and data science projects that I have completed and/or am currently working on. Below is a description of the files.
 
+36-401: Linear Regression:
+  Data Exam 1: A PDF report analyzing the association between sleep and both term and cumulative GPA using simple linear regression and modeling diagnostics. 
+  De2-final: A PDF report analyzing the association between different categories of professor ratings using multivariable linear regression with interactions and modeling diagnostics. 
+
 36-468: Text Anaylsis:
 
   Coffee_break1: This RMD file contains the data analysis for the first project in the course. For this project, I analyzed a corpus of young adult books (Twilight and Divergent) and a corpus containing a collection of children's literature to identify similarities and differences between the genres. The data analysis includes tokenization, frequency and token distributions, key word analysis, collocation networks, and sentiment analysis.
